@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio-Akshay/static/css/main.3540b45f.css",
-    "main.js": "/Portfolio-Akshay/static/js/main.724552cf.js",
+    "main.js": "/Portfolio-Akshay/static/js/main.8cfec8df.js",
     "static/js/787.9b837515.chunk.js": "/Portfolio-Akshay/static/js/787.9b837515.chunk.js",
     "static/media/home.jpg": "/Portfolio-Akshay/static/media/home.894c384c8e62fbd36108.jpg",
     "static/media/business.png": "/Portfolio-Akshay/static/media/business.fe92209a8fecd26d10ad.png",
@@ -16,11 +16,11 @@
     "static/media/PasswordGenerator.jpg": "/Portfolio-Akshay/static/media/PasswordGenerator.21091afb9f61e1f8a654.jpg",
     "index.html": "/Portfolio-Akshay/index.html",
     "main.3540b45f.css.map": "/Portfolio-Akshay/static/css/main.3540b45f.css.map",
-    "main.724552cf.js.map": "/Portfolio-Akshay/static/js/main.724552cf.js.map",
+    "main.8cfec8df.js.map": "/Portfolio-Akshay/static/js/main.8cfec8df.js.map",
     "787.9b837515.chunk.js.map": "/Portfolio-Akshay/static/js/787.9b837515.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3540b45f.css",
-    "static/js/main.724552cf.js"
+    "static/js/main.8cfec8df.js"
   ]
 }
