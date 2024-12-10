@@ -36,7 +36,7 @@ export default function ParticleHeaderBg() {
             bubble: {
               distance: 400,
               duration: 2,
-              opacity: 0.8,
+              opacity: 0.6,
               size: 10,
               divs: {
                 distance: 200,
@@ -141,17 +141,17 @@ export default function ParticleHeaderBg() {
               },
               image: [
                 {
-                  src: "https://raw.githubusercontent.com/devicons/devicon/moreter/icons/html5/html5-original.svg",
+                  src: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg",
                   width: 20,
                   height: 20,
                 },
                 {
-                  src: "https://raw.githubusercontent.com/devicons/devicon/moreter/icons/css3/css3-original.svg",
+                  src: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg",
                   width: 20,
                   height: 20,
                 },
                 {
-                  src: "https://raw.githubusercontent.com/devicons/devicon/moreter/icons/javascript/javascript-plain.svg",
+                  src: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg",
                   width: 20,
                   height: 20,
                 },
@@ -179,7 +179,7 @@ export default function ParticleHeaderBg() {
                   height: 20,
                 },
                 {
-                  src: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg",
+                  src: "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg",
                   width: 20,
                   height: 20,
                 },
