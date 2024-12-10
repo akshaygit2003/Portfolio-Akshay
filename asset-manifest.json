@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Portfolio-Akshay/static/css/main.3540b45f.css",
+    "main.js": "/Portfolio-Akshay/static/js/main.724552cf.js",
+    "static/js/787.9b837515.chunk.js": "/Portfolio-Akshay/static/js/787.9b837515.chunk.js",
+    "static/media/home.jpg": "/Portfolio-Akshay/static/media/home.894c384c8e62fbd36108.jpg",
+    "static/media/business.png": "/Portfolio-Akshay/static/media/business.fe92209a8fecd26d10ad.png",
+    "static/media/Thumbs.db": "/Portfolio-Akshay/static/media/Thumbs.735170b30af6b4c4247f.db",
+    "static/media/inicio.png": "/Portfolio-Akshay/static/media/inicio.9e191e0f2820064e6d28.png",
+    "static/media/Cars.jpg": "/Portfolio-Akshay/static/media/Cars.177c64d76dc12d97a4f9.jpg",
+    "static/media/Food Website.jpg": "/Portfolio-Akshay/static/media/Food Website.c16e0b4a29d76774f57f.jpg",
+    "static/media/Paypal.jpg": "/Portfolio-Akshay/static/media/Paypal.4af390f81fdd3a97fbc1.jpg",
+    "static/media/myresume.pdf": "/Portfolio-Akshay/static/media/myresume.89027cbbc755407d503b.pdf",
+    "static/media/Task Management Dashboard.jpg": "/Portfolio-Akshay/static/media/Task Management Dashboard.7162d97fd8feb3671699.jpg",
+    "static/media/Text Wizards.jpg": "/Portfolio-Akshay/static/media/Text Wizards.a5ba0b2f3f41646a9b43.jpg",
+    "static/media/PasswordGenerator.jpg": "/Portfolio-Akshay/static/media/PasswordGenerator.21091afb9f61e1f8a654.jpg",
+    "index.html": "/Portfolio-Akshay/index.html",
+    "main.3540b45f.css.map": "/Portfolio-Akshay/static/css/main.3540b45f.css.map",
+    "main.724552cf.js.map": "/Portfolio-Akshay/static/js/main.724552cf.js.map",
+    "787.9b837515.chunk.js.map": "/Portfolio-Akshay/static/js/787.9b837515.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3540b45f.css",
+    "static/js/main.724552cf.js"
+  ]
+}
